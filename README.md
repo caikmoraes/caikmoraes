@@ -25,13 +25,13 @@ Information Systems at <a href="https://www.mackenzie.br">Mackenzie Presbiterian
 
 <p>
   <!-- Java -->
-  <img align="left" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/bf2f5d2c-6545-43bc-b187-9d01c6875d56.png" alt="Java" width="150">
+  <img align="left" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/bf2f5d2c-6545-43bc-b187-9d01c6875d56.png" alt="Java" width="100">
   <!-- Spring -->
-  <img align="left" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" width="200">
+  <img align="left" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" width="150">
   <!-- Javascript -->
-  <img align="left" src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo-600x375.png" alt="Javascript" width="150">
+  <img align="left" src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo-600x375.png" alt="Javascript" width="100">
   <!-- PostgreSQL -->
-  <img align="left" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" alt="PostgreSQL" width="150">
+  <img align="left" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" alt="PostgreSQL" width="100">
   <!-- Ubuntu -->
-  <img align="left" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="150">
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="100">
 </p>
