@@ -1,4 +1,5 @@
-## Hello, I'm Caik Moraes! 
+## Hello, I'm Caik Moraes! <img src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b76114e1165079c7a6b73112db04fc67cefd16a94435a&rid=giphy.gif&ct=g" width="50">
+
 Information Systems at <a href="https://www.mackenzie.br">Mackenzie Presbiterian University</a>
 <img align="right" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif">
 
