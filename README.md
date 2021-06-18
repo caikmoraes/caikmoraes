@@ -8,11 +8,29 @@ Information Systems at <a href="https://www.mackenzie.br">Mackenzie Presbiterian
   
 ### About me
   
-- 🔭 I’m currently working at Arista Digital LTDA
-- 🌱 I’m currently learning Spring Boot, React and Design
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- 🖥️ I’m currently working at Arista Digital LTDA as a Java Development Intern
+- 📚 I’m currently learning Spring Boot, React and Design
+- 🎓 I'll graduate in 2023.
+- 🐧 I love Linux 
+
+### I've worked at
+
+- https://www.castelodacortina.com.br
+- https://www.seteguias.com.br
+- https://loja.seteguias.com.br
+
+
+### My skills
+
+<p>
+  <!-- Java -->
+  <img align="left" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/bf2f5d2c-6545-43bc-b187-9d01c6875d56.png" alt="Java" width="150">
+  <!-- Spring -->
+  <img align="left" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" width="200">
+  <!-- Javascript -->
+  <img align="left" src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo-600x375.png" alt="Javascript" width="150">
+  <!-- PostgreSQL -->
+  <img align="left" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" alt="PostgreSQL" width="150">
+  <!-- Ubuntu -->
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="150">
+</p>
