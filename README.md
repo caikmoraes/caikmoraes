@@ -34,4 +34,6 @@ Information Systems at <a href="https://www.mackenzie.br">Mackenzie Presbiterian
   <img align="left" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" alt="PostgreSQL" width="100">
   <!-- Ubuntu -->
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="100">
+  <!--  Flutter  -->
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="100" height="80">
 </p>
