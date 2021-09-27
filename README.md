@@ -10,7 +10,7 @@ Information Systems at <a href="https://www.mackenzie.br">Mackenzie Presbiterian
 ### About me
   
 - 🖥️ I’m currently working at Arista Digital LTDA as a Java Development Intern
-- 📚 I’m currently learning Spring Boot, React and Design
+- 📚 I’m currently learning about Flutter and cross plataform development
 - 🎓 I'll graduate in 2023.
 - 🐧 I love Linux 
 
