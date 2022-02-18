@@ -36,4 +36,6 @@ Information Systems at <a href="https://www.mackenzie.br">Mackenzie Presbiterian
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="100">
   <!--  Flutter  -->
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="100" height="80">
+  <!--  Kotlin  -->
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png" alt="Kotlin" width="200">
 </p>
