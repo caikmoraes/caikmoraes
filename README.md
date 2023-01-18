@@ -9,7 +9,7 @@ Information Systems at <a href="https://www.mackenzie.br">Mackenzie Presbiterian
   
 ### About me
   
-- 🖥️ I’m currently working at Arista Digital LTDA as a Java Analyst
+- 🖥️ I’m currently working at Teros as a Junior Development Analyst
 - 📚 I’m currently learning about Flutter and cross plataform development
 - 🎓 I'll graduate in 2023.
 - 🐧 I love Linux 
