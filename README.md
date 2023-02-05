@@ -10,29 +10,20 @@ Information Systems at <a href="https://www.mackenzie.br">Mackenzie Presbiterian
 ### About me
   
 - 🖥️ I’m currently working at Teros as a Junior Development Analyst
-- 📚 I’m currently learning about Flutter and cross plataform development
 - 🎓 I'll graduate in 2023.
 - 🐧 I love Linux 
-
-### I've worked at
-
-- https://www.castelodacortina.com.br
 
 ### My skills
 
 <p>
-  <!-- Java -->
-  <img align="left" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/bf2f5d2c-6545-43bc-b187-9d01c6875d56.png" alt="Java" width="100">
-  <!-- Spring -->
-  <img align="left" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" width="150">
+  <!-- Dotnet -->
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="Dotnet" width="100">
+  <!-- Flutter -->
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" alt="Flutter" width="150">
   <!-- Javascript -->
   <img align="left" src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo-600x375.png" alt="Javascript" width="100">
   <!-- PostgreSQL -->
   <img align="left" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" alt="PostgreSQL" width="100">
   <!-- Ubuntu -->
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="100">
-  <!--  Flutter  -->
-  <img align="left" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="100" height="80">
-  <!--  Kotlin  -->
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png" alt="Kotlin" width="200">
 </p>
