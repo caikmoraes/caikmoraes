@@ -1,6 +1,6 @@
 ### Hi there! 😉
 
-I'm Caik and I'm 22 years old (almost 23).  
+I'm Caik and I'm 23 years old.  
 I live in São Paulo - Brazil.
 
 - 💕 Father of two beautiful sons and husband of the most amazing woman God could ever give me!
